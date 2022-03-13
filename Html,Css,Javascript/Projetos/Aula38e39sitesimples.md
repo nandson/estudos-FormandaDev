@@ -1,7 +1,7 @@
 # # projeto site simples
-
-index.html
 """js
+index.html
+
 
 <!DOCTYPE html> 
 
@@ -57,8 +57,9 @@ index.html
 
 """
 
-style.css
 """js
+style.css
+
 
 /*estilização*/
 
